@@ -1,0 +1,3 @@
+*.log
+Heyyyyy/*
+!Heyyyyy/file.py
